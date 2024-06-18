@@ -1,0 +1,163 @@
+PS C:\Users\WINDOWS 10\Desktop>
+
+Sale processed successfully.
+Total Cost: 3600
+Sale processed successfully.
+Total Cost: 2400
+Product Report:
+Product ID: 1, Name: Gaming Laptop, Stock: 0, Price: 1200
+Product ID: 2, Name: Smartphone, Stock: 5, Price: 800
+Low Stock Report:
+Product ID: 1, Name: Gaming Laptop, Stock: 0
+Product ID not found.
+Product ID not found.
+
+Options:
+1. Add Product
+2. Update Product Information
+3. Remove Product
+4. Update Stock
+5. Process Sale
+6. Generate Product Report
+7. Generate Low Stock Report
+8. Count Products
+9. Exit
+Enter your choice: 1
+Enter product ID: 11
+Enter product name: BOOK
+Enter product description: perfect practice
+Enter product price: 100
+Enter product quantity: 100
+
+Options:
+1. Add Product
+2. Update Product Information
+3. Remove Product
+4. Update Stock
+5. Process Sale
+6. Generate Product Report
+7. Generate Low Stock Report
+8. Count Products
+9. Exit
+Enter your choice: 1
+Enter product ID: 12
+Enter product name: tab
+Enter product description: multi purpose
+Enter product price: 10000
+Enter product quantity: 20 
+
+Options:
+1. Add Product
+2. Update Product Information
+3. Remove Product
+4. Update Stock
+5. Process Sale
+6. Generate Product Report
+7. Generate Low Stock Report
+8. Count Products
+9. Exit
+Enter your choice: 2
+Enter product ID to update: 12
+Enter new product name (leave empty to keep current): tab
+Enter new product description (leave empty to keep current): Multiple purpose 
+Enter new product price (leave empty to keep current): 15000
+
+Options:
+1. Add Product
+2. Update Product Information
+3. Remove Product
+4. Update Stock
+5. Process Sale
+6. Generate Product Report
+7. Generate Low Stock Report
+8. Count Products
+9. Exit
+Enter your choice: 4
+Enter product ID to update stock: 11
+Enter quantity to add/subtract: 10
+
+Options:
+1. Add Product
+2. Update Product Information
+3. Remove Product
+4. Update Stock
+5. Process Sale
+6. Generate Product Report
+7. Generate Low Stock Report
+8. Count Products
+9. Exit
+Enter your choice: 5
+Enter product ID to sell: 11
+Enter quantity to sell: 10
+Sale processed successfully.
+
+Options:
+1. Add Product
+2. Update Product Information
+3. Remove Product
+4. Update Stock
+5. Process Sale
+6. Generate Product Report
+7. Generate Low Stock Report
+8. Count Products
+9. Exit
+Enter your choice: 6
+Product Report:
+Product ID: 11, Name: BOOK, Stock: 100, Price: 100.0
+Product ID: 12, Name: tab, Stock: 20, Price: 15000.0
+
+Options:
+1. Add Product
+2. Update Product Information
+3. Remove Product
+4. Update Stock
+5. Process Sale
+6. Generate Product Report
+7. Generate Low Stock Report
+8. Count Products
+9. Exit
+Enter your choice: 7
+Low Stock Report:
+
+Options:
+1. Add Product
+2. Update Product Information
+3. Remove Product
+4. Update Stock
+5. Process Sale
+6. Generate Product Report
+7. Generate Low Stock Report
+8. Count Products
+9. Exit
+Enter your choice: 1
+Enter product ID: 13
+Enter product name: Bluetooth
+Enter product description: High Quality music
+Enter product price: 1000
+Enter product quantity: 10 
+
+Options:
+1. Add Product
+2. Update Product Information
+3. Remove Product
+4. Update Stock
+5. Process Sale
+6. Generate Product Report
+7. Generate Low Stock Report
+8. Count Products
+9. Exit
+Enter your choice: 8
+Total number of products: 3
+
+Options:
+1. Add Product
+2. Update Product Information
+3. Remove Product
+4. Update Stock
+5. Process Sale
+6. Generate Product Report
+7. Generate Low Stock Report
+8. Count Products
+9. Exit
+Enter your choice: 9
+Exiting...
